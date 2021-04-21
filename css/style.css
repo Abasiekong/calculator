@@ -84,26 +84,6 @@ button {
     outline: 0;
 }
 
-button:nth-child(4) {
-    background: #20b2aa;
-}
-
-button:nth-child(8) {
-    background: #A27DA1;
-}
-
-button:nth-child(12) {
-    background: #F08080;
-}
-
-button:nth-child(16) {
-    background: #739DE0;
-}
-
-button:nth-child(20) {
-    background: #9477AF;
-}
-
 button:active {
     font-size: 1.75rem;
 }
